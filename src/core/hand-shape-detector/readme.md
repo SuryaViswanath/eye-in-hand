@@ -1,0 +1,1 @@
+This module contains the code for training, testing and predicting of hand trajectory
