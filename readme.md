@@ -51,6 +51,8 @@ Example Outputs:
 ![Screenshot 2025-04-13 at 5 49 43 PM](https://github.com/user-attachments/assets/a631bd6e-d230-4b38-a368-df7a2be35819)
 ![Screenshot 2025-04-13 at 5 50 14 PM](https://github.com/user-attachments/assets/37baa5aa-235e-401d-b15c-4f10cf8de748)
 
+If you like what you are seeing, please star the repo
+
 To Do:
 - Add object detection
 - Add live action anticipation
